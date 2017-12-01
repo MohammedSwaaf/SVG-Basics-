@@ -1,0 +1,13 @@
+circle
+{
+  fill : red;
+  stroke : #fff;
+  stroke-width : 3
+}
+
+circle:hover
+{
+  fill : #fff;
+  stroke : red;
+  transition:all 0.5s ease-out;
+}
